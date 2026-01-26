@@ -105,3 +105,8 @@ button[type="reset"]:hover {
     background-color: #ff0000;
     color: #ffffff;
 }
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
