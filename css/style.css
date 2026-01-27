@@ -73,9 +73,11 @@ input[type="color"] {
     padding: 0 10px;
 }
 
-input[type="tel"] {
+input[type="tel"], input[type="file"] {
     margin-bottom: 0;
 }
+
+
 
 small {
     display: inline-block;
